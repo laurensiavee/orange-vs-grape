@@ -3,7 +3,7 @@ fun and simple Machine Learning exercise to build classifier model for citrus da
 
 #
 ### NOTEBOOK
-view full code on jupyter notebook [*here*]()
+view full code on jupyter notebook [*here*](https://github.com/laurensiavee/orange-vs-grape/blob/main/orange_grape.ipynb)
 
 #
 
